@@ -13,7 +13,7 @@ I learned how to apply different javascript properties like a while and for loop
 
 ## Screenshot
 
-![alt text](assets/password%20generator.PNG)
+![Password Generator Screenshot](assets/password%20generator.PNG)
 
 ## Deployed Link
 
