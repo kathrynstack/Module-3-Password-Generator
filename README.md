@@ -17,3 +17,4 @@ I learned how to apply different javascript properties like a while and for loop
 
 ## Deployed Link
 
+https://kathrynstack.github.io/Module-3-Password-Generator/ 
